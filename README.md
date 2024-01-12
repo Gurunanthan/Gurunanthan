@@ -7,13 +7,13 @@
     <a href="https://twitter.com/NanthanGuru">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://www.Gurunanthanonna.com">
-      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
-    </a>
   </div>
 </div>
 
 #### 💻 &nbsp; About Me :
+        Highly motivated and academically-driven aspiring student eager
+to translate theoretical knowledge into practical application and
+contribute to real-world projects.
 #### :fire: My Stats :
 
 <a href="https://github.com/Gurunanthan">
