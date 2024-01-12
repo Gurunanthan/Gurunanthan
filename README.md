@@ -10,10 +10,7 @@
   </div>
 </div>
 
-#### 💻 &nbsp; About Me :
-        Highly motivated and academically-driven aspiring student eager
-to translate theoretical knowledge into practical application and
-contribute to real-world projects.
+#### 💻 &nbsp; About Me : Highly motivated and academically-driven aspiring student eagerto translate theoretical knowledge into practical application and contribute to real-world Projects.
 #### :fire: My Stats :
 
 <a href="https://github.com/Gurunanthan">
