@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurunanthan&theme=tokyonight&count_private=true&layout=donut" width="305" alt="Gurunanthans's most used languages" />
 </a>
 <a href="https://github.com/sudheerj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurunanthan&show_icons=true&theme=tokyonight&line_height=27&include_all_commits=true&count_private=true&hide=issues" width="502" alt="Gurunanthan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gurunanthan&show_icons=true&theme=tokyonight&line_height=27&include_all_commits=true&count_private=true&hide=issues" width="502" alt="Gurunanthan's github stats"/>
 </a>
 
 #### :hammer_and_wrench: Languages and Tools :
