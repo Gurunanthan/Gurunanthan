@@ -10,7 +10,7 @@
   </div>
 </div>
 
-#### 💻 &nbsp; About Me : Highly motivated and academically-driven aspiring student eagerto translate theoretical knowledge into practical application and contribute to real-world Projects.
+#### 💻 &nbsp; About Me : Highly motivated and academically-driven aspiring student eager to translate theoretical knowledge into practical application and contribute to real-world Projects.
 #### :fire: My Stats :
 
 <a href="https://github.com/Gurunanthan">
@@ -19,7 +19,9 @@
 <a href="https://github.com/sudheerj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gurunanthan&show_icons=true&theme=tokyonight&line_height=27&include_all_commits=true&count_private=true&hide=issues" width="502" alt="Gurunanthan's github stats"/>
 </a>
-
+<h2></h2>
+<b>leetCode Stats :</b>
+<img src = "https://leetcard.jacoblin.cool/guru_nanthan?theme=dark&ext=activity">
 #### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
